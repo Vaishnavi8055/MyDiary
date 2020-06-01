@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<h1>My Diary<h1>
 
-You can use the [editor on GitHub](https://github.com/Vaishnavi8055/MyDiary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Your final project is to create a web page that matches the example given here. Your page must match mine exactly other than the title and any parts that have been highlighted in yellow. (If you would like to open this image in a separate window you can find it here. If you need help with this content due to difficulties accessing the text, you can find a textual description of the image below at http://intro-webdesign.com/projectdescription.html.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Grading Checklist
+doctype
+head
+body
+nav -- add four links, they can go to anywhere you like or nowhere at all
+section - Favorite Foods
+section - Achievements
+section - More About Me
+4. footer - The image from the footer can be found at my website: http://www.intro-webdesign.com/images/newlogo.png
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vaishnavi8055/MyDiary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
