@@ -5,12 +5,12 @@
 
 <h2>Grading Checklist<h2>
   <ol>
-<li>doctype<li>
-<li>head<li>
-<li>body<li>
-<li>nav -- add four links, they can go to anywhere you like or nowhere at all<li>
-<li>section - Favorite Foods<li>
-<li>section - Achievements<li>
-<li>section - More About Me<li>
-<li> footer - The image from the footer can be found at my website:<a href="http://www.intro-webdesign.com/images/newlogo.png"></a><li>
+<li>doctype</li>
+<li>head</li>
+<li>body</li>
+<li>nav -- add four links, they can go to anywhere you like or nowhere at all</li>
+<li>section - Favorite Foods</li>
+<li>section - Achievements</li>
+<li>section - More About Me</li>
+<li> footer - The image from the footer can be found at my website:<a href="http://www.intro-webdesign.com/images/newlogo.png"></a></li>
   </ol>
