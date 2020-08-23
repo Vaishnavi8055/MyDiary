@@ -15,3 +15,6 @@
 <li>section - More About Me</li>
 <li> footer - The image from the footer can be found at my website: http://www.intro-webdesign.com/images/newlogo.png</li>
   </ol>
+
+<h2>Link of WebPage</h2>
+<a href="https://vaishnavi8055.github.io/MyDiary/" target="_blank">MyDiary</a>
